@@ -6,3 +6,6 @@
 
 # Version Beta 1.0
 
+![Covid](https://github.com/d5tr/Covid/blob/main/Co.png)
+
+# Install
