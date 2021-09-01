@@ -8,4 +8,19 @@
 
 ![Covid](https://github.com/d5tr/Covid/blob/main/Co.png)
 
-# Install
+# Installation
+
+```
+~$ git clone  https://github.com/d5tr/Covid.git
+```
+```
+~$ cd Covid
+```
+```
+~$ sudo ./installer.sh
+```
+```
+~$ sudo python3 Covid.py
+```
+
+
