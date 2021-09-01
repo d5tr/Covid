@@ -17,6 +17,9 @@
 ~$ cd Covid
 ```
 ```
+~$ chmod +x installer.sh
+```
+```
 ~$ sudo ./installer.sh
 ```
 ```
